@@ -11,9 +11,10 @@ pip install pandas
 pip install pandas-ta
 pip install yfinance
 pip install tensorflow
+pip install scikit-learn
 ```
 
 > [!NOTE]
 > This project is based on the code provided [here](https://www.youtube.com/watch?v=hpfQE0bTeA4).
 > Full credit goes to the tutorial creator for the implementation and explanation.
-> I've recreated it here and commented most of the code for my personal learning purposes.
+> I've recreated it here with a few adjustments and commented most of the code for my personal learning purposes.
